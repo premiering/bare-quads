@@ -1,3 +1,3 @@
 # bare quads
-Bare quad renderer
+Bare quad renderer, somewhat works
 Should've just used zig
